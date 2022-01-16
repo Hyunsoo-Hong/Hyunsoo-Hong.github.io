@@ -4,7 +4,7 @@ title: Publication
 ---
 
 
-I can also be found from [Google Scholar](https://scholar.google.com/citations?user=seokhoson) and [DBLP](https://dblp.uni-trier.de/pers/hd/s/Son:Seokho).
+They can be also found from [Google Scholar](https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1).
 
 
 # Research Papers
