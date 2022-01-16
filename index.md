@@ -9,26 +9,15 @@ cover-img: /assets/img/IMG_8045.JPG
 
 ## About me
 
-I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST MDAM lab., working with prof. Seong Su Kim. I am interested in the composite structures & finite element analysis.
+I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://mdam.kaist.ac.kr), working with prof. Seong Su Kim. I am interested in the composite structures & finite element analysis. I have pulished several [research papers](https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1) and presented in several conferences.
 
+I love to try to do new things and share it with collaborators. Hello world! &#128525;
 
-```
-and **_open source special fellow_** of [ETRI](https://www.etri.re.kr/kor/main/main.etri) (Korean government-funded national research institute). He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
-```
-
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
-
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
-
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
-
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Affiliation: Mechanical Design Lab. with Advanced Materials, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+Office: 202, Pilot plat building, Department of Mechanical Engineering, KAIST 291 Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea
+Email: flud159@kaist.ac.kr
 ```
