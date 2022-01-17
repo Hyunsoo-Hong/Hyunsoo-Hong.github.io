@@ -1,5 +1,6 @@
 ---
 layout: page
+font size: 12pt
 title: Mechanical Engineering Researcher
 subtitle: Mechanical Design Lab. with Advanced Materials, KAIST
 cover-img: /assets/img/IMG_4846.PNG
