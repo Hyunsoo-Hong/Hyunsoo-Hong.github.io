@@ -20,15 +20,15 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Jungrak Choi, Chakyu Han, Seokjook Cho, Kyuyoung Kim, Dionisio Del Orbe, Incheol Cho, Zhi-Zun Zhao, Yong Suk Oh, **Hyunsoo Hong**, Seong su kim*, Inkyu Park*, “Customizable, conformal, and stretchable 3D electronics via predistorted pattern generation and thermoforming”, Science Advances, 2021, 10.1126
 
 - Tae-Chang Ahn, **Hyunsoo Hong**, Seong Su Kim, Hui-Yun Hwang*, “Improvement of adhesion characteristics of copper electrodes on polyvinylidene fluoride films using bovine serum albumin”, International Journal of Adhesion and Adhesives, 2022,103025
-
-
+  
+  
 #### Domestic
 
 - **Hyunsoo Hong** and Seong Su Kim*, “Effect of Microwave Irradiation on Conformation of Crystalline of PVDF Nano-composite Film in the Solvent Evaporation Process”, Composites Research, 2019; 33(1): 19-24
-
-
-
-
+  
+  
+  
+  
 ## Conference Proceedings
 
 #### International
@@ -44,8 +44,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong** and Seong Su Kim, “GFRP/CFRP hybrid composites with self-sensing capability for the ankle spring of exoskeleton robot”,24th International Conference on Composite Structures – ICCS24, Porto, Portugal, 2021.06.
 
 - **Hyunsoo Hong** and Seong Su Kim, “Prediction of running kinetic parameters by using the artificial neural network from self-sensing composite structures for exoskeleton robots”, The 8th KAIST-SJTU-UTokyo Joint Academic Symposium, 2021.10.
-
-
+  
+  
 #### Domestic
 
 - **Hyunsoo Hong**, Seong Su Kim, “용매 증발 과정 중 마이크로웨이브 처리가 PVDF 필름의 결정화 형태에 미치는 영향” 2018년도 복합재료학회 추계학술대회, 2018. 11.
@@ -61,17 +61,17 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong**, Seong Su Kim, “자체 변형 측정이 가능한 유전체 폼 코어 샌드위치 복합재료 구조” 2021년도 기계학회 춘계학술대회, 2021. 06.
 
 - **Hyunsoo Hong**, Hyeonseong Jo, Seong Su Kim*, “자체 변형 센싱의 유전체 폼 코어 샌드위치 복합재료 구조에 대한 연구”, 2021년 한국복합재료학회 추계학술대회, 2021. 11.
-
-
-
-
+  
+  
+  
+  
 ## Patents
 
 #### International
 
 - “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, US Patent Pending No. 17562667, 2021
-
-
+  
+  
 #### Domestic
 
 - “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021
