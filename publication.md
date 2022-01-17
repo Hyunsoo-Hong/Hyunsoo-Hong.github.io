@@ -75,4 +75,5 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 #### Domestic
 
 - “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021
+
 - “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021
