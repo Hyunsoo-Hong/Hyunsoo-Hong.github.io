@@ -2,7 +2,7 @@
 layout: page
 title: Mechanical Engineering Researcher
 subtitle: Mechanical Design Lab. with Advanced Materials, KAIST
-cover-img: /assets/img/IMG_8045.JPG
+cover-img: /assets/img/IMG_4846.PNG
 ---
 
 <br/>
