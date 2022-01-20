@@ -69,11 +69,13 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 #### International
 
-- “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, US Patent Pending No. 17562667, 2021
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, US Patent Pending No. 17562667, 2021
   
   
 #### Domestic
 
-- “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021
+- Myung Suk Kim, Jeong Uk Kang, Jong Hyuk Park, Min Gyu Jang, **Hyunsoo Hong**, Sung Ju Choi, "Stack type filter modular air cleaner", Korea Patent Pending No. 10-2018-0013028, 2018
 
-- “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021
+
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021
