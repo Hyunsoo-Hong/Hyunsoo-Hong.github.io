@@ -70,6 +70,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 #### International
 
 - Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, US Patent Pending No. 17562667, 2021
+
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, US Patent Pending No. 17580187, 2022
   
   
 #### Domestic
