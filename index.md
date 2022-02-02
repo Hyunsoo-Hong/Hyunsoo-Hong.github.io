@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hong, H.S.
+title: Hong, Hyunsoo
 subtitle: Mechanical Design Lab. with Advanced Materials, KAIST
 cover-img: /assets/img/IMG_9056.jpg
 ---
