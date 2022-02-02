@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ME Researcher
+title: Hong, H.S.
 subtitle: Mechanical Design Lab. with Advanced Materials, KAIST
 cover-img: /assets/img/IMG_9056.jpg
 ---
