@@ -21,5 +21,6 @@ title: Research Career
 
 - “Molecular dynamics simulations of phase transformation mechanisms in TiO2 nano-particle reinforced poly (vinylidene fluoride)” – Best paper award, **Hyunsoo Hong**, Seong Su Kim, the Korean Society for composite materials (KSCM) spring conference, 2019.
 
-- “A study on the self-sensing dielectric foam core sandwich composite structures” – Best paper award, **Hyunsoo Hong**, Hyeongseong Jo, Seong Su Kim, the Korean Society for composite materials (KSCM) fall conference, 2021.
+- “Dielectric foam core sandwich composite structure capable of self-sensing deformation” – Best paper award, **Hyunsoo Hong**, Seong Su Kim, the Korean Society of Mechanical Engineers (KSME) spring conference, 2021.
 
+- “A study on the self-sensing dielectric foam core sandwich composite structures” – Best paper award, **Hyunsoo Hong**, Hyeongseong Jo, Seong Su Kim, the Korean Society for composite materials (KSCM) fall conference, 2021.
