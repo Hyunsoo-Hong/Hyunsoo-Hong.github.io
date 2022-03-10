@@ -81,3 +81,6 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021
 
 - Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021
+
+- Seong Su Kim, Kim Won Vin, Seung Yoon On, **Hyunsoo Hong**, Wonki Kim, Hyeonseong Jo, et al., “Closed-cell thermoelectric foam”, Korea Patent Pending No. 10-2022-0029665, 2022
+
