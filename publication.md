@@ -61,7 +61,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong**, Seong Su Kim, “자체 변형 측정이 가능한 유전체 폼 코어 샌드위치 복합재료 구조” 2021년도 기계학회 춘계학술대회, 2021. 06.
 
 - **Hyunsoo Hong**, Hyeonseong Jo, Seong Su Kim*, “자체 변형 센싱의 유전체 폼 코어 샌드위치 복합재료 구조에 대한 연구”, 2021년 한국복합재료학회 추계학술대회, 2021. 11.
-  
+
+- **Hyunsoo Hong**, Seong Su Kim*, “변형율 센싱이 가능한 복합재료 발목 스프링을 이용한 달리기 운동에 따른 지면 반력 도출”, 2022년 한국정밀공학회 춘계학술대회, 2022. 05.
   
   
   
