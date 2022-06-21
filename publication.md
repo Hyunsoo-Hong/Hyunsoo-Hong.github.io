@@ -29,6 +29,7 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 
 
+
 ## Patents
 
 #### International
@@ -49,7 +50,9 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Seong Su Kim, Kim Won Vin, Seung Yoon On, **Hyunsoo Hong**, Wonki Kim, Hyeonseong Jo, et al., “Closed-cell thermoelectric foam”, Korea Patent Pending No. 10-2022-0029665, 2022
   
   
-  
+
+
+
 ## Conference Proceedings
 
 #### International
@@ -89,24 +92,4 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - **Hyunsoo Hong**, Seong Su Kim*, “자체 변형 센싱이 가능한 정전 용량 기반 유전체 폼 코어 샌드위치 복합재료 구조”, 2022년 기계학회 춘계학술대회, 2022. 06.
   
-  
-  
-## Patents
-
-#### International
-
-- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, US Patent Pending No. 17562667, 2021
-
-- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, US Patent Pending No. 17580187, 2022
-  
-  
-#### Domestic
-
-- Myung Suk Kim, Jeong Uk Kang, Jong Hyuk Park, Min Gyu Jang, **Hyunsoo Hong**, Sung Ju Choi, "Stack type filter modular air cleaner", Korea Patent Pending No. 10-2018-0013028, 2018
-
-- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021
-
-- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021
-
-- Seong Su Kim, Kim Won Vin, Seung Yoon On, **Hyunsoo Hong**, Wonki Kim, Hyeonseong Jo, et al., “Closed-cell thermoelectric foam”, Korea Patent Pending No. 10-2022-0029665, 2022
 
