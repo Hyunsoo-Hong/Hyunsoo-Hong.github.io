@@ -25,7 +25,28 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 #### Domestic
 
 - **Hyunsoo Hong** and Seong Su Kim*, “Effect of Microwave Irradiation on Conformation of Crystalline of PVDF Nano-composite Film in the Solvent Evaporation Process”, Composites Research, 2019; 33(1): 19-24
+
+
+
+
+## Patents
+
+#### International
+
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, US Patent Pending No. 17562667, 2021
+
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, US Patent Pending No. 17580187, 2022
   
+  
+#### Domestic
+
+- Myung Suk Kim, Jeong Uk Kang, Jong Hyuk Park, Min Gyu Jang, **Hyunsoo Hong**, Sung Ju Choi, "Stack type filter modular air cleaner", Korea Patent Pending No. 10-2018-0013028, 2018
+
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021
+
+- Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021
+
+- Seong Su Kim, Kim Won Vin, Seung Yoon On, **Hyunsoo Hong**, Wonki Kim, Hyeonseong Jo, et al., “Closed-cell thermoelectric foam”, Korea Patent Pending No. 10-2022-0029665, 2022
   
   
   
@@ -44,6 +65,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong** and Seong Su Kim, “GFRP/CFRP hybrid composites with self-sensing capability for the ankle spring of exoskeleton robot”,24th International Conference on Composite Structures – ICCS24, Porto, Portugal, 2021.06.
 
 - **Hyunsoo Hong** and Seong Su Kim, “Prediction of running kinetic parameters by using the artificial neural network from self-sensing composite structures for exoskeleton robots”, The 8th KAIST-SJTU-UTokyo Joint Academic Symposium, 2021.10.
+
+- **Hyunsoo Hong** and Seong Su Kim, “Composite spring capable of self-energy harvesting based on triboelectricity for exo-robots”, The 20th European Conference on Composite Materials – ECCM20, Lausanne, Switzerland, 2022.06.
   
   
 #### Domestic
@@ -63,6 +86,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong**, Hyeonseong Jo, Seong Su Kim*, “자체 변형 센싱의 유전체 폼 코어 샌드위치 복합재료 구조에 대한 연구”, 2021년 한국복합재료학회 추계학술대회, 2021. 11.
 
 - **Hyunsoo Hong**, Seong Su Kim*, “변형율 센싱이 가능한 복합재료 발목 스프링을 이용한 달리기 운동에 따른 지면 반력 도출”, 2022년 한국정밀공학회 춘계학술대회, 2022. 05.
+
+- **Hyunsoo Hong**, Seong Su Kim*, “자체 변형 센싱이 가능한 정전 용량 기반 유전체 폼 코어 샌드위치 복합재료 구조”, 2022년 기계학회 춘계학술대회, 2022. 06.
   
   
   
