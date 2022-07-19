@@ -48,6 +48,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021
 
 - Seong Su Kim, Kim Won Vin, Seung Yoon On, **Hyunsoo Hong**, Wonki Kim, Hyeonseong Jo, et al., “Closed-cell thermoelectric foam”, Korea Patent Pending No. 10-2022-0029665, 2022
+
+- Seong Su Kim, Kwang Il Jeong, Jae-Moon Jeong, **Hyunsoo Hong**, Su Hyun Lim, “Porous electrodes for vanadium redox flow battery with gradient in compressive stiffness and manufacturing thereof”, Korea Patent Pending No. 10-2022-0089186, 2022
   
   
 
@@ -70,6 +72,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong** and Seong Su Kim, “Prediction of running kinetic parameters by using the artificial neural network from self-sensing composite structures for exoskeleton robots”, The 8th KAIST-SJTU-UTokyo Joint Academic Symposium, 2021.10.
 
 - **Hyunsoo Hong** and Seong Su Kim, “Composite spring capable of self-energy harvesting based on triboelectricity for exo-robots”, The 20th European Conference on Composite Materials – ECCM20, Lausanne, Switzerland, 2022.06.
+
+- **Hyunsoo Hong**, Woe Tae Kim,and Seong Su Kim, “A CFRP/GFRP hybrid composite support for double-wall LNG pipe system”, 25th International Conference on Composite Structures – ICCS25, Porto, Portugal, 2022.07.
   
   
 #### Domestic
