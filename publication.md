@@ -24,7 +24,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
   
 #### Domestic
 
-- **홍현수**, 김성수, "용매 증발 과정 중 마이크로웨이브 처리가 PVDF 복합재료 필름의 결정화 형태에 미치는 영향." Composites Research 33.1 (2020): 19-24. (**Hyunsoo Hong** and Seong Su Kim*, “Effect of Microwave Irradiation on Conformation of Crystalline of PVDF Nano-composite Film in the Solvent Evaporation Process”, Composites Research, 2019; 33(1): 19-24)
+- **홍현수**, 김성수, "용매 증발 과정 중 마이크로웨이브 처리가 PVDF 복합재료 필름의 결정화 형태에 미치는 영향." Composites Research 33.1 (2020): 19-24.
+(**Hyunsoo Hong** and Seong Su Kim*, “Effect of Microwave Irradiation on Conformation of Crystalline of PVDF Nano-composite Film in the Solvent Evaporation Process”, Composites Research, 2019; 33(1): 19-24)
 
 
 
