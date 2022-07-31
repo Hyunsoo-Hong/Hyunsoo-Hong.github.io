@@ -12,11 +12,11 @@ title: Research Career
         	    <img src="/assets/img/test.png" width="400"/>
       	    </td>
 	    <td style="padding:10px">
-		    Affiliation: Mechanical Design Lab(https://mdam.kaist.ac.kr). with Advanced Materials, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+		    Affiliation: Mechanical Design Lab (https://mdam.kaist.ac.kr). with Advanced Materials, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
             </td>
         </tr>
     </table>
 </div>
 
 <br/>
-
+<a href="/assets/img/test.png" class="image fit"><img src="/assets/img/test.png" alt=""></a>
