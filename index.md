@@ -16,9 +16,21 @@ I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://
 
 <center><img src="/assets/img/test.png" width="30%" height="30%"></center>
 
-|제목|내용|
-|:---|---:|
-|<center><img src="/assets/img/test.png" width="50%" height="50%"></center>|Affiliation: Mechanical Design Lab. with Advanced Materials, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST) Office: 202, Pilot plat building, Department of Mechanical Engineering, KAIST 291 Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea Email: flud159@kaist.ac.kr|
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="/assets/img/test.png" width="200"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="/assets/img/test.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="/assets/img/test.png" width="400"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <br/>
 
