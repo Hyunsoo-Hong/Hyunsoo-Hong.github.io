@@ -18,6 +18,8 @@ title: Research Career
 
 ## Awards and honors
 
+- 국가우수장학금 (이공계), 2015-2017, 한국 장학 재단
+
 - "용매 증발 과정 중 마이크로웨이브 처리가 PVDF 필름의 결정화 형태에 미치는 영향" - 최우수 발표 논문상, **홍현수**, 김성수, 2018년도 한국복합재료학회 추계학술대회
 <br>(“Effect of microwave irradiation on conformation of crystalline of PVDF film in the solvent evaporation process” – Best paper award, **Hyunsoo Hong**, Seong Su Kim, the Korean Society for composite materials (KSCM) fall conference, 2018.)
 
