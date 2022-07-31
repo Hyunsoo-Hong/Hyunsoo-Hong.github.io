@@ -13,8 +13,7 @@ I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://
 
 <br/>
 
-
-<center><img src="/assets/img/111.png" width="30%" height="30%"></center>
+<center><img src="/assets/img/111.png" width="100%" height="100%"></center>
 
 <br/>
 
