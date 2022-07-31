@@ -20,6 +20,14 @@ I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://
 |:---|---:|:---:|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 
+<br/>
+
+<h2>Latest case study</h2>
+
+{% assign items = site.case | sort: 'date' %}
+{% for case in site.case limit:1 %}
+<h3 class="cf"><a title="{{ case.title }} Case study details" href="{{ case.url }}">{{ case.title }}</a></h3>
+
 
 
 ## Contact
