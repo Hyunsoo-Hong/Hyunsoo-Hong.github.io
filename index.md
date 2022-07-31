@@ -9,7 +9,7 @@ cover-img: /assets/img/IMG_9056.jpg
 
 ## About me
 
-I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://mdam.kaist.ac.kr), working with prof. Seong Su Kim. I am interested in the composite structures & finite element analysis. I have pulished several [research papers](https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1) and presented my research in several conferences. Hello world! &#128525;
+I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://mdam.kaist.ac.kr), advised by prof. Seong Su Kim. My research interests lie in the span of Composite structures, optimization, and machine learning. I have pulished several [research papers](https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1) and presented my research in several conferences. Thank you for visiting my website! &#x1f60a;
 
 
 ## Contact
