@@ -8,6 +8,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 
 
+<br>
+<br>
 
 ## Journal Papers
 
@@ -29,7 +31,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 
 
-
+<br>
+<br>
 
 ## Patents
 
@@ -59,7 +62,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
   
   
 
-
+<br>
+<br>
 
 ## Conference Proceedings
 
