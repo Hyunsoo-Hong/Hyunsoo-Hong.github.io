@@ -13,12 +13,9 @@ I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://
 
 <br/>
 
-.center {
-  display: block;
-  margin: auto;
-}
 
-![GitHub Logo](/assets/img/test.png){: width="30%" height="30%"}{: .center}
+##![GitHub Logo](/assets/img/test.png){: width="30%" height="30%"}{: .center}
+<center><img src="/assets/img/test.png" width="30%" height="30%"></center>
 
 
 ## Contact
