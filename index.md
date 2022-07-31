@@ -28,6 +28,16 @@ I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://
 {% for case in site.case limit:1 %}
 <h3 class="cf"><a title="{{ case.title }} Case study details" href="{{ case.url }}">{{ case.title }}</a></h3>
 
+<div class="grid">
+  <div class="grid__col grid__col--1-of-5 grid__col--m-1-of-3  grid__col--s-1-of-1">
+    {% if case.thumb %}<img src="/{{ site.theme-path }}/case-studies/{{ case.thumb }}" alt="{{ case.title }}" class="listing-thumb"/>{% endif %}
+  </div>
+  <div class="grid__col grid__col--4-of-5 grid__col--m-2-of-3   grid__col--s-1-of-1">
+    <p>{{ case.summary }}</p>
+  </div>
+
+</div>
+
 
 
 ## Contact
