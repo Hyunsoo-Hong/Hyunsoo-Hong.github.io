@@ -20,14 +20,7 @@ I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://
 |:---|---:|:---:|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 
-\\<!--<br/>
-
-<figure class="half">
-    <img src="/assets/img/test.png" width="30%" height="30%">
-    <img src="/assets/img/test.png" width="30%" height="30%">
-figure>
-
-<br/>-->
+<br/>
 
 값 | 의미 | 기본값
 ---|:---:|---:
@@ -36,6 +29,7 @@ figure>
 `absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
 `fixed` | **브라우저 창**을 기준으로 배치 |
 
+<br/>
 
 ## Contact
 
