@@ -31,3 +31,13 @@ title: Research Career
 
 - "자체 변형 센싱의 유전체 폼 코어 샌드위치 복합재료 구조에 대한 연구" - 최우수 발표 논문상, **홍현수**, 조현성, 김성수, 2021년도 한국복합재료학회 추계학술대회
 <br>(“A study on the self-sensing dielectric foam core sandwich composite structures” – Best paper award, **Hyunsoo Hong**, Hyeongseong Jo, Seong Su Kim, the Korean Society for composite materials (KSCM) fall conference, 2021.)
+
+
+<br>
+
+## Experiences
+
+- Exchange student program, Hong Kong University of Science and Technology (HKUST), Hong Kong, 2017.06. - 2017.08.
+
+- Exchange student program, Technical University of Denmark (DTU), Denmark, 2017.09. - 2017.12.
+
