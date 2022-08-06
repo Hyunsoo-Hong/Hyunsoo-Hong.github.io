@@ -15,20 +15,6 @@ I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://
 
 <center><img src="/assets/img/111.png" width="100%" height="100%"></center>
 
-<br/>
-
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="/assets/img/test.png" width="400"/>
-      	    </td>
-	    <td style="padding:10px">
-		    Affiliation: Mechanical Design Lab. with Advanced Materials, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
-            </td>
-        </tr>
-    </table>
-</div>
 
 <br/>
 
