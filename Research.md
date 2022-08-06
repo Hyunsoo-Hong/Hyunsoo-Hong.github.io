@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Career
+title: Research
 ---
 
 <br/>
