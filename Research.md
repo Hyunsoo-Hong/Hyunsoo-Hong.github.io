@@ -19,4 +19,3 @@ title: Research Career
 </div>
 
 <br/>
-<a href="/assets/img/test.png" class="image fit"><img src="/assets/img/test.png" alt=""></a>
